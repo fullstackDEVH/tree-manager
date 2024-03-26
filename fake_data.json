@@ -1,0 +1,32 @@
+{
+    "name": "images",
+    "type": "folder",
+    "children": [
+        {
+            "name": "images_1",
+            "type": "folder",
+            "children": [
+                {
+                    "name": "images_1.png",
+                    "type": "file",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "images_2",
+            "type": "folder",
+            "children": [
+                {
+                    "name": "images_2.png",
+                    "type": "file",
+                    "children": []
+                },{
+                    "name": "images_22.png",
+                    "type": "file",
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
